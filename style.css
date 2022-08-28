@@ -1,0 +1,25 @@
+body {
+    background-color: blueviolet;
+    color: whitesmoke;
+}
+.heading {
+    width: 80%;
+    font-size: 30px;
+    background-color: blueviolet;
+    border-width: 0px;
+    border-bottom-width: 3px;
+}
+.nameOfObject {
+    color: lightblue;
+    font-size: 20px;
+}
+#camera {
+    width: 340px;
+    height: 250px;
+    border: 4px solid black;
+}
+#result {
+    width: 340px;
+    height: 250px;
+    border: 4px solid black;
+}
